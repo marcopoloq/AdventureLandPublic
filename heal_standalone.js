@@ -1,6 +1,6 @@
 /*	
  * @author	Mark
- * @source	
+ * @source	https://github.com/marcopoloq/AdventureLandPublic/blob/master/heal_standalone.js
  */
 // If a character is below this percent of hp he will be healed.
 var percent = 0.8;
