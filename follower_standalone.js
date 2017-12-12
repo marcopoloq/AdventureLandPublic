@@ -1,6 +1,6 @@
 /*
  * @author	Mark
- * @source	https://github.com/marcopoloq/AdventureLandPublic/blob/master/follower_standalone%20-%20Copy.js
+ * @source	https://github.com/marcopoloq/AdventureLandPublic/blob/master/follower_standalone.js
  */
 setInterval(function(){
 	loot();
