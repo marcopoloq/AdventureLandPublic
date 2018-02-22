@@ -1,6 +1,6 @@
 /*
  * @author	Mark
- * @source	https://github.com/marcopoloq/AdventureLandPublic/blob/master/follower_standalone.js
+ * @source	https://github.com/marcopoloq/AdventureLandPublic/blob/master/dps_meter.js
  */
 class meters{
 	constructor(args){
