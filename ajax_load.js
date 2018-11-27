@@ -1,4 +1,4 @@
-var test = $.ajax('https://raw.githubusercontent.com/marcopoloq/AdventureLandPublic/master/testfile.js', {
+var test = $.ajax('https://cdn.jsdelivr.net/gh/marcopoloq/AdventureLandPublic/testfile.js', {
     type: 'Get',
     dataType: "script",
     async: false,
