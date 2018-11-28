@@ -4,5 +4,3 @@ var test = $.ajax('https://cdn.jsdelivr.net/gh/marcopoloq/AdventureLandPublic/te
     async: false,
     cache: true
   });
-
-console.log(test)
