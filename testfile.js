@@ -1,1 +1,1 @@
-console.log('The file has been loaded!');
+show_json('The file has been loaded!');
