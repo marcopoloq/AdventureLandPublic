@@ -1,3 +1,8 @@
+/*
+ * @author	Mark
+ * @source	https://github.com/marcopoloq/AdventureLandPublic/blob/master/Classes/Example.js
+ */
+
 class Member{
 	constructor(args){
 		this.whitelist = args.whitelist;
