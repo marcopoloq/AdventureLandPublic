@@ -66,6 +66,8 @@ var member = (function(){
 				this.goto_attack(my_chase[0]);
 			else if(pty_chase.length)
 				this.goto_attack(pty_chase[0]);
+			else if(no_chase.length)
+				this.goto_attack(no_chase[0]);
 		}
 		pvp(blacklist_players, whitelist_players){
 			// Go to the enemy player and kill them.
