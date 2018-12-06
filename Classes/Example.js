@@ -190,10 +190,10 @@ var member = (function(){
 		}
 	}
 	let args = {
-		whitelist: ['Gensei', 'Haether', 'Protos'],
-		blacklist: ['test4', 'test5', 'test6'],
-		monster_list: ['crabx'],
-		party_list: ['Gensei', 'Protos', 'Haether']
+		whitelist: ['Gensei', 'Haether', 'Morcorino'],
+		blacklist: [], // Same format as whitelist.
+		monster_list: ['goo', 'bee'], // Same format as whitelist.
+		party_list: [], // Same format as whitelist.
 	};
 	switch(character.ctype){
 		case 'mage':
